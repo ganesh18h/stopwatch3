@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  #display {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  #controls {
+    margin-bottom: 20px;
+  }
+  
+  #controls button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  
+  #laps {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #laps li {
+    margin-bottom: 5px;
+  }
+  
